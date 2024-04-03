@@ -1,2 +1,4 @@
+![A series of colourful circles.](https://github.com/BirkbeckCTP/janecrum/blob/main/assets/janeway_10.png?raw=true)
+
 # janecrum
-Repository for the Janecrum website.
+This repository is used to store the Janeway/Fulcrum (Janecrum) website.
